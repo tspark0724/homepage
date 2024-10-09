@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "learn-more.html";
     });
 
+    
    
     // 이미지 변경
     const imageElement = document.getElementById("change-image");
